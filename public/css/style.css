@@ -1,4 +1,4 @@
-body {
+.body {
   background-color: powderblue;
 }
 
@@ -32,3 +32,99 @@ body
   background-color: lavender;
 }
 
+.HIIT {
+    position: relative;
+  text-align: center;
+  top: 70px;
+}
+
+.HIIT_title{
+    position: relative;
+    text-align: center;
+    
+}
+
+
+.cardio {
+    position: relative;
+  text-align: center;
+  top: 70px;
+}
+
+.cardio_title{
+    position: relative;
+    text-align: center;
+}
+
+.power {
+    position: relative;
+  text-align: center;
+  top: 70px;
+}
+
+.power_title{
+    position: relative;
+    text-align: center;
+}
+
+.lift_foto{
+    padding: 15px;
+  border: 1px solid;
+  background-color: lightgray;
+}
+
+.cardio_foto{
+    padding: 15px;
+  border: 1px solid;
+  background-color: rgb(179, 230, 201);
+}
+
+.HIIT_foto{
+    padding: 15px;
+  border: 1px solid;
+  background-color: rgb(255, 235, 153);
+}
+
+.vegan {
+    position: relative;
+  text-align: center;
+  top: 70px;
+}
+
+.vegan_title{
+    position: relative;
+    text-align: center;
+}
+
+.gluten {
+    position: relative;
+  text-align: center;
+  top: 70px;
+}
+
+.gluten_title{
+    position: relative;
+    text-align: center;
+}
+
+.veg {
+    position: relative;
+  text-align: center;
+  top: 70px;
+}
+
+.veg_title{
+    position: relative;
+    text-align: center;
+}
+
+.prot {
+    position: relative;
+  text-align: center;
+  top: 70px;
+}
+
+.prot_title{
+    position: relative;
+    text-align: center;
+}
