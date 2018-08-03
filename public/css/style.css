@@ -1,0 +1,34 @@
+body {
+  background-color: powderblue;
+}
+
+.title {position: relative;
+text-align: center;
+ padding-right: 130px;
+ padding-bottom: 20px;
+ padding-left: 50px
+}
+
+.intro {position: relative;
+text-align: center;
+padding-right:130px;
+padding-bottom: 300px
+}
+
+.fitness_form {
+  position: relative;
+  text-align: center;
+}
+  
+.diet_form {
+    position: relative;
+  text-align: center;
+  bottom: 400px;
+}
+
+
+body 
+{
+  background-color: lavender;
+}
+
